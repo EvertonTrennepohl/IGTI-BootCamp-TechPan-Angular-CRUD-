@@ -7,7 +7,7 @@ export interface Contact {
   phone: string;
 }
 
-const urlBase = 'https://contato-app-2a0cff3zu-evertontrennepohl.vercel.app';
+const urlBase = 'http://localhost:3000';
 
 @Injectable({
   providedIn: 'root',
